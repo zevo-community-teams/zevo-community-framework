@@ -2,9 +2,9 @@
 
 ---
 
-# ZEVO — 5D AI-DRIVEN MULTIMODAL SOFTWARE FRAMEWORK™
+### ZEVO — 5D AI-DRIVEN MULTIMODAL SOFTWARE FRAMEWORK™
 
-## Software Architecture Specification
+#### Software Architecture Specification
 
 **Document ID:** ZEVO-ARCH-SPEC-001
 **Revision:** 1.0
