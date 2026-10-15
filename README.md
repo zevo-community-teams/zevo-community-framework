@@ -64,7 +64,7 @@ The architecture is organized into five numbered horizontal layers. Each layer d
 │ LAYER 3 — MODALITY ADAPTERS & REPLACEABLE MODEL RUNTIMES                    │
 │                                                                             │
 │   ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────────────────────────┐          │
-│   │ Text │ │Audio │ │Image │ │Video │ │ Sensor / Actuator / I/O  │          │
+│   │ Text │ │Audio │ │Image │ │Video │ │     I/O Devices          │          │
 │   └──┬───┘ └──┬───┘ └──┬───┘ └──┬───┘ └────────────┬─────────────┘          │
 │      │        │        │        │                  │                        │
 │      └────────┴────────┴────────┴──────────────────┘                        │
