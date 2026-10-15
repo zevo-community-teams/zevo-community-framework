@@ -159,7 +159,7 @@ Zevo is an original, friendly 3D animated AI avatar with expressive features and
 | Images   | BGRA |
 | Video    | BGRA |
 | Audio    | PCM  |
-| Sensor / Actuator | I/O channels |
+| I/O      | Devices Peripheral |
 
 These five modalities fuse into a five-dimensional spherical representation:
 
@@ -305,7 +305,7 @@ Security is organized as a layered, understandable system.
        ▼                  ▼                  ▼
 ┌─────────────┐  ┌─────────────┐  ┌──────────────────┐
 │ Text        │  │ Audio       │  │ Image / Video /  │
-│ Adapter     │  │ Adapter     │  │ Sensor Adapter   │
+│ Adapter     │  │ Adapter     │  │ I/O Devices      │
 └──────┬──────┘  └──────┬──────┘  └────────┬─────────┘
        │                │                  │
        └────────────────┼──────────────────┘
